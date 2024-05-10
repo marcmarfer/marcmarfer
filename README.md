@@ -15,4 +15,5 @@ Some technologies/tools I'm proficient in:
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Others:** Git, RESTful APIs, Figma, Draw.io
 
+##
 "The secret to moving forward is to start"
