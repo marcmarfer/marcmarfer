@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=40FFAC&lines=Welcome+to+my+profile;+I'm+Marc+Marqués;">
+</h1>
 
-<!--
-**marcmarfer/marcmarfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here I will explain a little of who I am.
 
-Here are some ideas to get you started:
+## About Me
+I have studied a higher degree in web development and now I am focused on continuing to grow as a programmer and as a person. I consider myself a hard-working person and always eager to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Some technologies/tools I'm proficient in:
+
+- **Frontend:** React.js, Angular, Vue.js, HTML5, CSS3, JavaScript, TypeScript
+- **Backend:** Node.js, Express.js, Laravel
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **Others:** Git, RESTful APIs, Figma, Draw.io
+
+## My contributions 
+<img alt="snake eating contributions" src="https://raw.githubusercontent.com/marcmarfer/marcmarfer/output/github-contribution-grid-snake.svg"/>
