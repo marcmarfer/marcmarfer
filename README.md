@@ -14,3 +14,5 @@ Some technologies/tools I'm proficient in:
 - **Backend:** Node.js, Express.js, Laravel
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Others:** Git, RESTful APIs, Figma, Draw.io
+
+"The secret to moving forward is to start"
