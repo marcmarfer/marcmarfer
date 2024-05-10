@@ -14,6 +14,3 @@ Some technologies/tools I'm proficient in:
 - **Backend:** Node.js, Express.js, Laravel
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Others:** Git, RESTful APIs, Figma, Draw.io
-
-## My contributions 
-<img alt="snake eating contributions" src="https://raw.githubusercontent.com/marcmarfer/marcmarfer/output/github-contribution-grid-snake.svg"/>
