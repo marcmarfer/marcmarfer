@@ -10,10 +10,28 @@ I have studied a higher degree in web development and now I am focused on contin
 ## Skills
 Some technologies/tools I'm proficient in:
 
-- **Frontend:** React.js, Angular, Vue.js, HTML5, CSS3, JavaScript, TypeScript
-- **Backend:** Node.js, Express.js, Laravel
-- **Database:** MongoDB, MySQL, PostgreSQL
-- **Others:** Git, RESTful APIs, Figma, Draw.io
+- **Frontend:**
+  - HTML5, CSS3, JavaScript, TypeScript
+  - React.js, Angular, Vue.js
+  - Tailwind CSS
+
+- **Backend:**
+  - Node.js, Express.js
+  - Laravel (PHP framework)
+
+- **Database:**
+  - MySQL, PostgreSQL, MongoDB
+
+- **Server & Deployment:**
+  - VPS setup with Nginx
+  - CI/CD with GitHub Actions
+  - Docker
+
+- **Version Control:**
+  - Git, GitHub
+
+- **Design:**
+  - Figma, Draw.io
 
 ##
 "The secret to moving forward is to start"
