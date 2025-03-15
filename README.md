@@ -8,7 +8,7 @@ Here I will explain a little of who I am.
 I have studied a higher degree in web development and now I am focused on continuing to grow as a programmer and as a person. I consider myself a hard-working person and always eager to learn.
 
 ## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joanpaneque&langs_count=6&layout=compact&theme=githubdark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joanpaneque&langs_count=6&layout=compact&theme=dark)
 
 ##
 "The secret to moving forward is to start"
