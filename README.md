@@ -8,7 +8,7 @@ Here I will explain a little of who I am.
 I have studied a higher degree in web development and, for the last few years, I have been focused on continuing to grow as a programmer and as a person. I consider myself a hard-working individual who is always eager to learn.
 
 ## 📊 Tech Stack
-My main stack includes HTML, CSS, JavaScript, Vue.js, Laravel, MySQL, Node.js, Git, Docker and Nginx.
+My main stack includes HTML, CSS, JavaScript, Vue.js, Laravel, MySQL, Node.js, Git, Docker and Nginx.<br>
 I also have experience with React, Next.js, Angular, Python, Express and PostgreSQL, among others.
 
 ##
